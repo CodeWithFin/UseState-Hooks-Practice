@@ -10,10 +10,11 @@ body {
 
 h1 {
   font-size: 100px;
+  
 }
 
 .container {
-  margin: 60% auto;
+  margin: 80% auto;
 }
 
 button {
