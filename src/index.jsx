@@ -16,10 +16,10 @@ console.log(time);
 //Can you get the time in your <h1> to update every second?
 
 //e.g. uncomment the code below to see Hey printed every second.
-// function sayHi() {
-//   console.log("Hey");
-// }
-// setInterval(sayHi, 1000);
+function sayHi() {
+  console.log("Hey");
+}
+setInterval(sayHi, 1000);
 
 // If you're running this locally in VS Code use the commands:
 // npm install
